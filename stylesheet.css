@@ -102,7 +102,6 @@ caption {
 table {
     border-collapse: collapse;
     border: 3px solid rgb(000, 000, 000);
-    letter-spacing: 1px;
     font-family: sans-serif;
     font-size: .7rem;
 }
