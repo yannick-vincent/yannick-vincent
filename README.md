@@ -11,11 +11,9 @@
 <br/>
 <br/>
    <div class="centre">
-   <img src="logo.png" width=400pt border="6">
+ <a href="https://www.pearltrees.com/s/file/preview/253542113/Exercice%2023%20v2.pdf?pearlId=398526527">  <img src="logo.png" width=400pt border="6"></a>
  
- 
-
-</head>
+  
 <body>
     <body bgcolor="Silver">
 	     
