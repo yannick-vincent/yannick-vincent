@@ -10,9 +10,9 @@
 <br/>
 <br/>
 <br/>
-<div id="en-tete"></div>
-   <img src="logo.png" width=400pt border="6" id="logo"/>
-    </div>
+ 
+   <img src="logo.png" width=400pt border="6" align=center>
+ 
  
 
 </head>
@@ -30,7 +30,4 @@
 
 
 <ul/>
-        </div>
-
-</body>
-</html>
+ 
