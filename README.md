@@ -20,22 +20,33 @@ yannick.vincent[at]ac-creteil.fr
 	     
 	     <div class="centre">
 <ul id="classe">             
-<span class="cadre1" align=center><a href="#">Seconde</a></span> 
+<span class="cadre1" align=center><a href="#">Accueil</a></span> 
 <br />
 <br />
 <br />
-<span class="cadre1" align=center><a href="https://www.pearltrees.com/s/file/preview/253542113/Exercice%2023%20v2.pdf?pearlId=398526527">Première (spécialité)</a></span> 
+<span class="cadre1" align=center><a href="https://www.pearltrees.com/s/file/preview/253542113/Exercice%2023%20v2.pdf?pearlId=398526527">Vitae</a></span> 
 <br />
 <br />
 <br />
-<span class="cadre1" align=center><a href="#">Terminale (STI2D)</a></span> 
+	<span class="cadre1" align=center><a href="#">Enseignement</a></span> 
 <br />
 <br />
 <br />
-<span class="cadre1" align=center><a href="#">Terminale (mathématiques expertes)</a></span> 
+	
+<span class="cadre1" align=center><a href="#">Conférences et exposés</a></span> 
 <br />
 <br />
 <br />
+<span class="cadre1" align=center><a href="#">Articles et textes scientifiques</a></span> 
+<br />
+<br />
+<br />
+
+	<span class="cadre1" align=center><a href="#">Carnet à idées</a></span> 
+<br />
+<br />
+<br />
+	
 <ul/>
 	   
 
