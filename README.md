@@ -13,13 +13,13 @@ yannick.vincent[at]ac-creteil.fr
 <br/>
     <style>
       img {
-        width: 650px;
+        width: 300pt;
         padding: 1px;
-        border: 1px solid #021a40;
+        border: 3px solid black;
       }
     </style>
 	   
-   <img src="logo.png" width=300pt> 
+   <img src="logo.png"> 
  
   
 <body>
