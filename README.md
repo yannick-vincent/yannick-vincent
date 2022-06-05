@@ -56,11 +56,7 @@ function show(shown, hidden) {
 <span class="cadre1" align=center><a href="#">Terminale (STI2D)</a></span> 
 <br />
 <br />
-<br />
-<span class="cadre1" align=center><a href="#">Terminale (mathématiques expertes)</a></span> 
-<br />
-<br />
-<br />
+
 <ul/>
         </div>
 
