@@ -130,8 +130,7 @@ td {
  left: 0px;
  width: 100%;
  height: 50px;
- /* z-index: 999;*/
- padding-top: 0px;  /*décalage du texte vers le bas*/
+ /* z-index: 999;*/ 
  text-align: center;
  text-indent: 0px; /*décalage du texte vers la droite*/
  font-size: 18px;
