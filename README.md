@@ -1,0 +1,64 @@
+<html>
+<head>
+<link rel="stylesheet" href="stylesheet.css">
+	<head bgcolor="black">
+		<title>Les histoires du père Vincent</title>
+		<meta charset="utf-8">
+    <body bgcolor="Silver">
+
+		<div id="PageCentrale">
+		<div id="BandeMenuHaut" class="ParamOpaciteMenu">
+		<ul id="MenuRubriques">
+		<li><a href="">Accueil</a></li>
+		<li><a href="#">Vitae</a></li>
+		<li><a href="#">Conférences et exposés</a></li>
+		<li><a href="#">Articles et textes scientifiques</a></li>
+		<li><a href="#">Enseignement</a></li>
+		<li><a href="#">Carnet à idées</a></li>
+		</ul>
+		</div>
+		</div>
+<script>
+function show(shown, hidden) {
+  document.getElementById(shown).style.display='block';
+  document.getElementById(hidden).style.display='none';
+  return false;
+}
+</script>
+
+
+<br/>
+<br/>
+<br/>
+<div id="en-tete"></div>
+   <img src="logo.png" width=200pt border="6" id="logo"/>
+    </div>
+ 
+
+</head>
+<body>
+
+		<h1>Enseignement</h1> 
+  <div class="centre">
+<ul id="classe">             
+<span class="cadre1" align=center><a href="#">Seconde</a></span> 
+<br />
+<br />
+<br />
+<span class="cadre1" align=center><a href="https://www.pearltrees.com/s/file/preview/253542113/Exercice%2023%20v2.pdf?pearlId=398526527">Première (spécialité)</a></span> 
+<br />
+<br />
+<br />
+<span class="cadre1" align=center><a href="#">Terminale (STI2D)</a></span> 
+<br />
+<br />
+<br />
+<span class="cadre1" align=center><a href="#">Terminale (mathématiques expertes)</a></span> 
+<br />
+<br />
+<br />
+<ul/>
+        </div>
+
+</body>
+</html>
