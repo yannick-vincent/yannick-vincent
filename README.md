@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@yannick-vincent 
-yannick-vincent
-/
-yannick-vincent
-Public template
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-yannick-vincent/accueil
-@yannick-vincent
-yannick-vincent Rename accueil.html to accueil
-Latest commit 0ee80c5 40 minutes ago
- History
- 1 contributor
-54 lines (44 sloc)  1.45 KB
-   
 <html>
 <head>
 <link rel="stylesheet" href="stylesheet.css">
@@ -45,8 +16,6 @@ Latest commit 0ee80c5 40 minutes ago
 		<li><a href="#">Enseignement</a></li>
 		<li><a href="#">Carnet à idées</a></li>
 		</ul>
-		</div>
-		</div>
 <script>
 function show(shown, hidden) {
   document.getElementById(shown).style.display='block';
@@ -58,8 +27,7 @@ function show(shown, hidden) {
 
 <br />
  
-
-</head>
+ 
 <body>
 
 <br/>
@@ -68,7 +36,7 @@ function show(shown, hidden) {
 <div id="en-tete"></div>
   
    <img src="logo.png" width=200pt border="6" id="logo"/>
-    </div>   
+ 
 		 <h1>LES HISTOIRES DU PERE VINCENT
 <br/> Yannick Vincent</h1> 
 <p align="center"> yannick.vincent[at]ac-creteil.fr <p/>
@@ -79,18 +47,4 @@ function show(shown, hidden) {
 <br />
 <p class="p1">Professeur de mathématiques au lycée Lucie Aubrac à Pantin (93), je m’intéresse à l’histoire de l’enseignement des mathématiques. Ma thèse porte plus particulièrement sur l’activité des répétiteurs de l’École polytechnique du XIXème siècle qui enseignaient dans les salles d’études et s’occupaient d’interroger les élèves.
 <p/>
-</body>
-</html>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+ 
