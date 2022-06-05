@@ -17,11 +17,10 @@
 
 </head>
 <body>
-    <body bgcolor=Silver>
+    <body bgcolor="Silver">
 	     
 	    
-	    
-		<h1>Enseignement</h1> 
+	     
   <div class="centre">
 <ul id="classe">             
 
