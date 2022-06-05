@@ -17,7 +17,7 @@
 		<li><a href="#">Carnet à idées</a></li>
 		</ul>
 		</div>
-		</div>
+	
 <script>
 function show(shown, hidden) {
   document.getElementById(shown).style.display='block';
