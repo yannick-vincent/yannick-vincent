@@ -10,8 +10,8 @@
 <br/>
 <br/>
 <br/>
- 
-   <img src="logo.png" width=400pt border="6" align=center>
+   <div class="centre">
+   <img src="logo.png" width=400pt border="6">
  
  
 
