@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="stylesheet2.css">
+<link rel="stylesheet2" href="stylesheet2.css">
 	<head bgcolor="black">
 		<title>Les histoires du père Vincent</title>
 		<meta charset="utf-8">
