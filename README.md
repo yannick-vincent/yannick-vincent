@@ -4,20 +4,8 @@
 	<head bgcolor="black">
 		<title>Les histoires du père Vincent</title>
 		<meta charset="utf-8">
-    <body bgcolor="Silver">
 
-		<div id="PageCentrale">
-		<div id="BandeMenuHaut" class="ParamOpaciteMenu">
-		<ul id="MenuRubriques">
-		<li><a href="">Accueil</a></li>
-		<li><a href="#">Vitae</a></li>
-		<li><a href="#">Conférences et exposés</a></li>
-		<li><a href="#">Articles et textes scientifiques</a></li>
-		<li><a href="#">Enseignement</a></li>
-		<li><a href="#">Carnet à idées</a></li>
-		</ul>
-		</div>
-		</div>
+
 <script>
 function show(shown, hidden) {
   document.getElementById(shown).style.display='block';
@@ -37,7 +25,23 @@ function show(shown, hidden) {
 
 </head>
 <body>
-
+    <body bgcolor="Silver">
+	    
+	    
+		<div id="PageCentrale">
+		<div id="BandeMenuHaut" class="ParamOpaciteMenu">
+		<ul id="MenuRubriques">
+		<li><a href="">Accueil</a></li>
+		<li><a href="#">Vitae</a></li>
+		<li><a href="#">Conférences et exposés</a></li>
+		<li><a href="#">Articles et textes scientifiques</a></li>
+		<li><a href="#">Enseignement</a></li>
+		<li><a href="#">Carnet à idées</a></li>
+		</ul>
+		</div>
+		</div>
+	    
+	    
 		<h1>Enseignement</h1> 
   <div class="centre">
 <ul id="classe">             
