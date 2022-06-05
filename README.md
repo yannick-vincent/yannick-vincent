@@ -12,7 +12,7 @@ yannick.vincent[at]ac-creteil.fr
 <br/>
 <br/>
 
- <span class="cadre1" align=center>  <img src="logo.png" width=300pt border="6"> </span> 
+ <span class="cadre2" align=center>  <img src="logo.png" width=300pt border="6"> </span> 
  
   
 <body>
