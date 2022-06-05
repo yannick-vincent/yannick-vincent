@@ -5,7 +5,6 @@
 		<title>Les histoires du père Vincent</title>
 		<meta charset="utf-8">
     <body bgcolor="Silver">
-
 		<div id="PageCentrale">
 		<div id="BandeMenuHaut" class="ParamOpaciteMenu">
 		<ul id="MenuRubriques">
