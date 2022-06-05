@@ -6,12 +6,12 @@
 		<meta charset="utf-8">
 
  
-
-<br/>
-<br/>
-<br/>
    <div class="centre">
- <a href="https://www.pearltrees.com/s/file/preview/253542113/Exercice%2023%20v2.pdf?pearlId=398526527">  <img src="logo.png" width=40% border="6"></a>
+<br/>
+yannick.vincent[at]ac-creteil.fr
+<br/>
+
+ <a href="https://www.pearltrees.com/s/file/preview/253542113/Exercice%2023%20v2.pdf?pearlId=398526527">  <img src="logo.png" width=300pt border="6"></a>
  
   
 <body>
